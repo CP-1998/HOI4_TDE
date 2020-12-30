@@ -242,7 +242,7 @@ ideologies = {
 			isolationist = {
 			}
 			
-			nationist = {
+			ultrastatist = {
 			}
 			
 			rouge = {

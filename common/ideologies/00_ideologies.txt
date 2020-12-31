@@ -91,7 +91,7 @@ ideologies = {
 		
 		color = { 255 0 0 }
 		
-		war_impact_on_world_tension = 0.1		#Cooperatists are even more radical than the Radical Constis. making them way more threatening
+		war_impact_on_world_tension = 0.1		#Cooperatists are even more radical than the Radical Constit. making them way more threatening
 		faction_impact_on_world_tension = 0.1
 		
 		ai_communist = yes # uses the commie AI behaviour
@@ -279,6 +279,6 @@ ideologies = {
 			hidden_modifier = { join_faction_tension = -0.1 }
 		}
 
-		ai_fascist = yes # uses the fascist AI behaviour
+		ai_communist = yes # uses the commie AI behaviour
 	}
 }

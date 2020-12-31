@@ -84,7 +84,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "William I"
-	desc = "The first and only Grand Duke to form a constitutional monarchy in the nation of Jarrpenland. Hailed as a hero by many Juliats."
+	desc = "The first and only Grand Duke to form a constitutional monarchy in the nation of Jarrpenland. Hailed as a hero by many Yulians."
 	picture = "William I.dds"
 	ideology = despotism
 	traits = {
